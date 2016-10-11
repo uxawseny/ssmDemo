@@ -14,9 +14,6 @@ import com.demo1.entity.Province;
 
 /**
  * 处理业务
- * 
- * @author Zhang wenmeng
- * 
  */
 @Service
 public class PC {
