@@ -1,5 +1,8 @@
 package com.demo1.entity;
 
+/**
+ * 区域实体
+ */
 public class Area {
     private Integer id;
 

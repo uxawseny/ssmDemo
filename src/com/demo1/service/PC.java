@@ -32,7 +32,6 @@ public class PC {
 
 	// 查询出所有的省份
 	public List<Province> showProvinceList() {
-
 		return dao.showProvinceList();
 	}
 

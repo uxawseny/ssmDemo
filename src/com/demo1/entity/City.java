@@ -1,5 +1,8 @@
 package com.demo1.entity;
 
+/**
+ * 城市实体类
+ */
 public class City {
     private Integer id;
 

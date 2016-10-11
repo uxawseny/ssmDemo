@@ -6,6 +6,6 @@
 <configuration>
 	<mappers>
 		<mapper resource="com/demo1/dao/CityMapper.xml"/>
-			<mapper resource="com/demo1/dao/ProvinceMapper.xml"/>
+		<mapper resource="com/demo1/dao/ProvinceMapper.xml"/>
 	</mappers>
 </configuration>
